@@ -1,3 +1,5 @@
+//WAP to check if a number is an armstrong number or not.
+
 import 'dart:io';
 import 'dart:math';
 
