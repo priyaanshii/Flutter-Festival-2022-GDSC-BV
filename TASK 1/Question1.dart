@@ -1,3 +1,4 @@
+//Q1 WAP to check if a number is divisible by 5
 import 'dart:io';
 
 void main() {
