@@ -1,4 +1,4 @@
-Q5 WAP print the Electricity Bill
+/*Q5 WAP print the Electricity Bill
      	Upto 200 - 0.5/unit
         	201 - 500 - 1/unit for units consumed above 200
         	501 - 1000 - 2.5/unit for units consumed above 500
@@ -7,7 +7,7 @@ Q5 WAP print the Electricity Bill
         	Above 2500 - 10/unit for units consumed above 2500
 
 PROGRAM
-
+*/
 import 'dart:io';
 
 void main() {
