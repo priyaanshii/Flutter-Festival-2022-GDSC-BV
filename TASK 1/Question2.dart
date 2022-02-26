@@ -1,4 +1,4 @@
-//write a cpp program to check wheather the number is even or odd using fuction.
+//write a dart program to check wheather the number is even or odd using fuction.
 
 import 'dart:io';
 
