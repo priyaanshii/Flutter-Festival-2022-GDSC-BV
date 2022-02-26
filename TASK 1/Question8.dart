@@ -1,3 +1,5 @@
+//Q8 WAP to check whether a character is an alphabet or not using ternary operator.
+
 void main() {
   print("enter string:");
   var ch = "a";
