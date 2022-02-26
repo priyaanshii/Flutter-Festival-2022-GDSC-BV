@@ -1,3 +1,5 @@
+//wap to perform operations like addition,subtraction,division,multiplication using fat arraw
+
 import 'dart:io';
 
 void main() {
