@@ -24,7 +24,8 @@ void main() {
     22: 'v',
     23: 'w',
     24: 'x',
-    25: 'z'
+    25: 'y',
+    26: 'z'
   };
   //print(details);
   stdout.write('enter number from 1-26 :');
