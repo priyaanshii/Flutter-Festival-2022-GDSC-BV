@@ -1,3 +1,5 @@
+//write a cpp program to check wheather the number is even or odd using fuction.
+
 import 'dart:io';
 
 void main() {
